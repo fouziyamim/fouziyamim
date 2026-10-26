@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/X-@fouziyamim-000000?style=for-the-badge&logo=x&logoColor=white" alt="X profile" />
 </a>
 
-<img src="https://img.shields.io/badge/Experience-4%20Years-0D9488?style=for-the-badge&logo=clockify&logoColor=white" alt="3+ years of experience" />
+<img src="https://img.shields.io/badge/Experience-3%20Years-0D9488?style=for-the-badge&logo=clockify&logoColor=white" alt="3+ years of experience" />
 
 </div>
 
