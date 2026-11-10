@@ -87,15 +87,15 @@ I'm **Fouziya Mim**, a Web Developer with **3+ years of experience** building mo
   <table>
     <tr>
       <td align="center" valign="top">
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jahidhasanwebdev&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fouziyamim&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
       </td>
       <td align="center" valign="top">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=jahidhasanwebdev&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&custom_title=Jahid%20Hasan's%20GitHub%20Stats" alt="Jahid Hasan's GitHub Stats" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=fouziyamim&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&custom_title=Fouziya%20Mim's%20GitHub%20Stats" alt="Fouziya Mim's GitHub Stats" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com/?user=jahidhasanwebdev&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+        <img src="https://streak-stats.demolab.com/?user=fouziyamim&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
       </td>
     </tr>
   </table>
