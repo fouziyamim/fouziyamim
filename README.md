@@ -82,25 +82,26 @@ I'm **Fouziya Mim**, a Web Developer with **3+ years of experience** building mo
 
 ---
 ## 📊 GitHub Analytics
+
 <div align="center">
   <table>
     <tr>
-      <td valign="top" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fouziyamim&layout=compact&theme=default&hide_border=true" alt="Most Used Languages" />
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jahidhasanwebdev&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
       </td>
-      <td valign="top" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=fouziyamim&show_icons=true&include_all_commits=true&theme=default&hide_border=true&custom_title=Fouziya%20Mim%27s%20GitHub%20Stats" alt="Fouziya Mim's GitHub Stats" />
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=jahidhasanwebdev&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&custom_title=Jahid%20Hasan's%20GitHub%20Stats" alt="Jahid Hasan's GitHub Stats" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com/?user=fouziyamim&theme=default&hide_border=true" alt="GitHub Contribution Streak" />
+        <img src="https://streak-stats.demolab.com/?user=jahidhasanwebdev&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
       </td>
     </tr>
   </table>
 </div>
 
-Note: These cards are generated from your public GitHub activity. The language card may show “No languages data” until you publish repositories containing code; stats may also take some time to refresh.
+Note: These cards are generated from your public GitHub activity. The language card may show "No languages data" until you publish repositories containing code; stats may also take some time to refresh.
 
 ---
 
